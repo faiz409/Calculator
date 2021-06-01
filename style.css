@@ -1,0 +1,43 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-size: 40px;
+}
+.container{
+    text-align: center;
+    margin-top: 80px
+}
+
+table{
+    margin: auto;
+    margin-top: 10px;
+}
+
+input{
+    font-size: 34px;
+    border: 2px solid #9EB3C2;
+    border-radius: 8px;
+    outline: none;
+    width: 422px;
+}
+
+button{
+    margin: 5px 2px;
+    font-size: 40px;
+    background-color: #9EB3C2;
+    width: 102px;
+    height: 58px;
+    border-color: #9EB3C2;
+    border-radius: 8px;
+}
+
+.calculator{
+    display: inline-block;
+    padding: 20px;
+    border: 2px solid #9EB3C2;
+    border-radius: 8px;
+    outline: none;
+    background: #065A82;
+}
